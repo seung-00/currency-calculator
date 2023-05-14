@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: local
+    currency-api:
+      url: https://api.apilayer.com
+      key: 4NmIvHJZoFVJK9GB9eN6sAPEQgxBMX1P
